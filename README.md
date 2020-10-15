@@ -2,11 +2,12 @@
 A web application to display the currently hot questions on stack overflow with infinite scroll. User can click to view additional details in a modal which includes the link to original post in Stack Overflow
 
 
-## My Tech Stack (MERN)
+## My Tech Stack 
 
 #### Front-end
 * Front-end Framework: `React.js`
 * Styling: `SASS` and `BOOTSTRAP`
+
 
 ## Running Example
 
@@ -44,7 +45,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+|
