@@ -16,8 +16,8 @@ class Header extends Component {
           </div>
 
           <ul className="nav navbar-nav navbar-right mr-5">
-          <li><a href="" class="nav-link btn btn-sm btn-primary text-white mr-2" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-          <li><a href="" class="nav-link btn btn-sm btn-primary text-white" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          <li><a href="" className="nav-link btn btn-sm btn-primary text-white mr-2" data-toggle="modal" data-target="#myModal"><span className="glyphicon glyphicon-user"></span> Sign Up</a></li>
+          <li><a href="" className="nav-link btn btn-sm btn-primary text-white" data-toggle="modal" data-target="#myModal"><span className="glyphicon glyphicon-log-in"></span> Login</a></li>
           </ul>
           </div>
         </nav>
