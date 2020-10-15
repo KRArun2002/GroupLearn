@@ -121,7 +121,7 @@ class QuesListing extends Component {
                           </small>
                           </div>
                         </div>
-                        <div className="col-3 offset-3">
+                        <div className="col-md-3 offset-3">
                           <span> |     Answer Count : {data.answer_count}</span><br />
                           <span>                         
                             {data.is_answered? (
