@@ -11,7 +11,7 @@ A web application to display the currently hot questions on stack overflow with 
 
 ## Running Example
 
-Click for running example: [react-example-app](https://communitylearn.herokuapp.com/)
+Click for running example: [GroupLearn](https://communitylearn.herokuapp.com/)
 
 
 
