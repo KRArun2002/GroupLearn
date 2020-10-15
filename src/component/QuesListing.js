@@ -98,7 +98,6 @@ class QuesListing extends Component {
                       <div className="form-row">
                         <div className="col-auto">
                           <img
-                            onerror="this.style.display='none'"
                             alt={data.owner.display_name}
                             style={{ maxWidth: "58px" }}
                             src={data.owner.profile_image}
